@@ -1,4 +1,4 @@
-
+// Anna Gonçalves Miguel e Erica dos Santos
 #include "lpc17xx_pinsel.h"
 #include "lpc17xx_gpio.h"
 #include "lpc17xx_i2c.h"
