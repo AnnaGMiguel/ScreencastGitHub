@@ -1,1 +1,1 @@
-Exercicio de Topicos Avançados
+﻿Exercicio de Topicos Avançados - Utilização do sensor de luminosidade na placa LPCXpresso
